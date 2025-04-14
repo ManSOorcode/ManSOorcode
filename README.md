@@ -36,8 +36,8 @@ Let's dive into some cool projects:
 
 Discover more on [GitHub](https://github.com/YourGitHubUsername).
 
-- 🚀 Currently diving into **JavaScript** and **React** .
-
+- 🚀 Currently diving into **JavaScript** and **React**.
+<!--- <img  align='left' src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="10"/>-->
 - 💵 Ready for new **Web Dev projects**. Let's bring your ideas to life!
 
 - 💡 Questions about **HTML**, **CSS**, **JavaScript**, or **React**? Ask me!
